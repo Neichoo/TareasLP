@@ -1,5 +1,4 @@
 Nombre: Ignacio Gómez González
-Rol: 202273553-8
 Paralelo: 200
 
 Para lograr una exitosa ejecución del programa, en la misma carpeta donde esté ubicado el programa se necesita del archivo 'problemas.txt' y
