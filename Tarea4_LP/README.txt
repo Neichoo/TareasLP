@@ -1,5 +1,4 @@
 Nombre: Ignacio Gómez González
-Rol: 202273553-8
 Paralelo: 200
 
 Para lograr una ejecución exitosa del programa, se debe usar Racket, se abren los codigos, luego
