@@ -1,5 +1,4 @@
 Nombre: Ignacio Gómez González
-Rol: 202273553-8
 Paralelo: 200
 
 Para lograr una exitosa ejecución del programa, se debe contar con javac 11, luego en la terminal uno se debe dirigir al
