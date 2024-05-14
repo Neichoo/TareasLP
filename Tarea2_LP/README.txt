@@ -1,5 +1,4 @@
 Nombre: Ignacio Gómez González
-Rol: 202273553-8
 Paralelo: 200
 
 Para lograr una exitosa ejecución del programa, en la terminal, se deben tener en cuenta los 
